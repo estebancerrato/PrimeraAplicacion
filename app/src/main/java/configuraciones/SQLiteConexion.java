@@ -1,4 +1,4 @@
-package configura;
+package configuraciones;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
